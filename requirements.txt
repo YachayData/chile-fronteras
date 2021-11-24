@@ -1,0 +1,6 @@
+geopandas
+matplotlib
+asyncio
+aiohttp
+json
+numpy
